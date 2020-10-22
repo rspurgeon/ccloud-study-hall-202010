@@ -10,11 +10,11 @@ The `ccloud-stack` library is found in the `examples` repository, here:
 
 For a list of commands and security configurations created by `ccloud-stack`, see this:
 
-	https://docs.confluent.io/current/tutorials/examples/ccloud/docs/ccloud-stack.html
+  https://docs.confluent.io/current/tutorials/examples/ccloud/docs/ccloud-stack.html
 
 Helpful document for ksqlDB ACLs for a topic:
 
-	https://docs.confluent.io/current/cloud/cp-component/ksql-cloud-config.html#create-acls-for-ksql-to-access-a-specific-topic-in-ccloud
+  https://docs.confluent.io/current/cloud/cp-component/ksql-cloud-config.html#create-acls-for-ksql-to-access-a-specific-topic-in-ccloud
 
 # Links
  * [Confluent Cloud](https://www.confluent.io/confluent-cloud/)
