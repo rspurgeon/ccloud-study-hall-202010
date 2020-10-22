@@ -1,0 +1,10 @@
+{
+    "name" : "datagen_users",
+    "connector.class": "DatagenSource",
+    "kafka.api.key": "<API KEY>",
+    "kafka.api.secret" : "<API SECRET>",
+    "kafka.topic" : "users",
+    "output.data.format" : "JSON",
+    "quickstart" : "USERS",
+    "tasks.max" : "1"
+}
