@@ -15,6 +15,7 @@ For a list of commands and security configurations created by `ccloud-stack`, se
 Various commands:
 
 * Alternate for wget:
+
 	`curl https://raw.githubusercontent.com/confluentinc/examples/latest/utils/ccloud_library.sh --output ccloud_library.sh`
 
 # Links
