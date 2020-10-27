@@ -25,4 +25,5 @@ Various commands:
  * [Confluent cp-demo](https://github.com/confluentinc/cp-demo)
  * [developer.confluent.io](https://developer.confluent.io/)
  * [kafka-devops](https://github.com/confluentinc/kafka-devops)
+ * [kafka-connect-datagen](https://github.com/confluentinc/kafka-connect-datagen)
 
