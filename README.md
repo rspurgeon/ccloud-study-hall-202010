@@ -21,6 +21,7 @@ Various commands:
 # Links
  * [Confluent Cloud](https://www.confluent.io/confluent-cloud/)
  * [developer.confluent.io](https://developer.confluent.io/)
+ * [Confluent Community Slack](https://cnfl.io/slack)
  * [Kafka Tutorials](https://kafka-tutorials.confluent.io/)
  * [Confluent Examples](https://github.com/confluentinc/examples)
  * [Confluent cp-demo](https://github.com/confluentinc/cp-demo)
